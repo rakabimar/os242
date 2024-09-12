@@ -3,11 +3,12 @@ permalink: LINKS/
 ---
 
 # LINKS
+
 ## Week 00
-### - [*THE* Operating System Course Website](os.vlsm.org)
+### - [*THE* Operating System Course Website](https://os.vlsm.org)
     This is Fasilkom UI's Operating System course main site. This site contains lecture materials, tutorials, assignments exam questions, etc. The common formula: This site + GSGS = Mastering OS
 ### - [Linux Commands](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/)
-  This site summarizes commands necessary for linux. Making CLI much more fun!
+    This site summarizes commands necessary for linux. Making CLI much more fun!
 
 ## Week 01
 ### - [VIM text editor](https://vim.rtorr.com/) 
