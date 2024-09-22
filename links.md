@@ -27,3 +27,13 @@ A video that explains the commonly known *RSA Encryption* with only using a whit
 
 ### - [Breaking RSA ~~Encryption~~](https://youtu.be/-ShwJqAalOk?si=q5-PIkx1w9r58KwG)
 A video that showcases the vulnerability behind the RSA encryption, explaining step by step how to reverse-engineer RSA. This technique is commonly used in Capture The Flag (CTF) contests under the Cryptography category.
+
+## Week 03
+### - [Virtual Memory Explained Visually](https://youtu.be/A9WLYbE0p-I?si=p3EwuJaPeIMACcCt)
+Understanding how virtual memory works would be so much easier by seing it visually. This video briefly explained the basics and examples of virtual memory on our computers.
+
+### - [What's Virtual Memory](https://youtu.be/5lFnKYCZT5o?si=vDi12xQFcXBcHnPC)
+Computerphile's Dr Steve Bagley explains about virtual memory and what differs them form physical memory.
+
+### - [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+A brief summary about all the aspects that we need to know about virtual memory.
