@@ -37,3 +37,13 @@ Computerphile's Dr Steve Bagley explains about virtual memory and what differs t
 
 ### - [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
 A brief summary about all the aspects that we need to know about virtual memory.
+
+## Week 04
+### - [C's Pointers](https://youtu.be/2ybLD6_2gKM?si=q_ayRTYOJvp0aq-1)
+A video that explains what are pointers and the general use of it. It also explains about pointers pointing to another pointer.
+
+### - [C's Reference](https://youtu.be/wro8Bb6JnwU?si=XHqjr40qzSqfGfiP)
+A video that explains what are references in C/C++, the difference with pointers, and what a reference actually does.
+
+### - [What is Paging?](https://youtu.be/kt4LkPFt8Zg?si=EnqBGm2fOjkIagkV)
+One of many memory management techniques called paging, the details and how to implement it inside the memory
