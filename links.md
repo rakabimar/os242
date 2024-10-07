@@ -47,3 +47,10 @@ A video that explains what are references in C/C++, the difference with pointers
 
 ### - [What is Paging?](https://youtu.be/kt4LkPFt8Zg?si=EnqBGm2fOjkIagkV)
 One of many memory management techniques called paging, the details and how to implement it inside the memory
+
+## Week 05
+### - [Useful GPG options](https://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
+A list (Cheatsheet) of common GPG options to use in dealing with GPG keys
+
+### - [Demand Paging explained](https://www.javatpoint.com/os-demand-paging)
+This link briefly explained the concept of demand paging, page fault, thrashing, and its implementation in OS.
