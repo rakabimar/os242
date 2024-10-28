@@ -54,3 +54,13 @@ A list (Cheatsheet) of common GPG options to use in dealing with GPG keys
 
 ### - [Demand Paging explained](https://www.javatpoint.com/os-demand-paging)
 This link briefly explained the concept of demand paging, page fault, thrashing, and its implementation in OS.
+
+## Week 06
+### - [Fork and Shared Memory Example](https://www.geeksforgeeks.org/fork-memory-shared-bw-processes-created-using/)
+A program example of fork() and shared memory with processes in C language
+
+## - [fork() Function in C](https://youtu.be/cex9XrZCU14?si=vBSuADogE2id_eDb)
+A video that briefly explains what fork() does in C language
+
+## - [Shared Memory With mmap](https://youtu.be/rPV6b8BUwxM?si=pcJbVGJhgq7oD0M7)
+Explanation about Shared Memory and the usage of mmap
