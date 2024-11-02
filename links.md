@@ -59,8 +59,15 @@ This link briefly explained the concept of demand paging, page fault, thrashing,
 ### - [Fork and Shared Memory Example](https://www.geeksforgeeks.org/fork-memory-shared-bw-processes-created-using/)
 A program example of fork() and shared memory with processes in C language
 
-## - [fork() Function in C](https://youtu.be/cex9XrZCU14?si=vBSuADogE2id_eDb)
+### - [fork() Function in C](https://youtu.be/cex9XrZCU14?si=vBSuADogE2id_eDb)
 A video that briefly explains what fork() does in C language
 
-## - [Shared Memory With mmap](https://youtu.be/rPV6b8BUwxM?si=pcJbVGJhgq7oD0M7)
+### - [Shared Memory With mmap](https://youtu.be/rPV6b8BUwxM?si=pcJbVGJhgq7oD0M7)
 Explanation about Shared Memory and the usage of mmap
+
+## Week 07
+### - [Process Synchronization in OS](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+A brief summary about process synchronization, race condition, and the soulutions
+
+### - [Process Synchronization Visually](https://youtu.be/ph2awKa8r5Y?si=_TwXpZClLB-5Xj7J)
+A video that explains how process synchronization works visually
