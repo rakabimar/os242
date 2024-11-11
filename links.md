@@ -71,3 +71,13 @@ A brief summary about process synchronization, race condition, and the soulution
 
 ### - [Process Synchronization Visually](https://youtu.be/ph2awKa8r5Y?si=_TwXpZClLB-5Xj7J)
 A video that explains how process synchronization works visually
+
+## Week 08
+### - [Kernotex's LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)
+A visual guide in building Linux From Scratch by Kernotex
+
+### - [Managing Users in Linux](https://youtu.be/19WOD84JFxA?si=vpp0C-DXPEyAuVsL)
+A complementary knowledge in managing users that are active in a linux environment
+
+### - [Mounting Disks in Linux](https://youtu.be/2Z6ouBYfZr8?si=93XxdOyi4hNelGit)
+A video that explains the necessary knowledges and commands needed in understanding disk mounting in linux
